@@ -1,2 +1,2 @@
 # SOLACE-PUZZLE-1
-"A healing word search game."
+"A word search game."
